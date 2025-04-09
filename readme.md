@@ -1,2 +1,2 @@
 ## Construindo Pokédex
-Repliquei a construção de uma Pokedex vendo bootcamp da "Orange Tech +" na digital inovation one
+Repliquei a construção de uma Pokedex vendo o bootcamp da "Orange Tech +" na digital inovation one
